@@ -19,21 +19,30 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API, G
    <strong>01. Splash Page:</strong> Animação inicial que aparece ao abrir o App.
 </div>
 <div align="left">  
-   <strong>02. Get Started Page:</strong> Tela de Apresentação, com botões de Login + Logout e Animação.
+   <strong>02. Onboard Page:</strong> Tela de Apresentação, demonstra a funcionalidade do App.
 </div>
 <div align="left"> 
-   <strong>03. Login Page:</strong> Tela que de Login (E-mail e senha ou Google).
+   <strong>03. Login Page:</strong> Tela de Login.
 </div>
 <div align="left"> 
    <strong>04. Register Page:</strong> Tela para criar sua conta.
 </div>
 <div align="left"> 
-   <strong>05. Home Page + Search:</strong> Listagem dos planetas + filtro por nome.
+   <strong>05. Recuperação de Senha:</strong> Tela para recuperar sua senha.
 </div>
 <div align="left"> 
-   <strong>06. Details Page:</strong> Tela que contém informações personalizadas do planeta clicado (Compartilhamento + Vídeo).
+   <strong>06. Home Page:</strong> Tela principal do App, que extende para as funcionalidades do App.
 </div>
-
+</div>
+<div align="left"> 
+   <strong>07. Help Page:</strong> Tela de Ajuda ao usuário.
+</div>
+<div align="left"> 
+   <strong>08. Extrato Page:</strong> Tela que apresenta o extrato, buscando dados da Api e persistindo Flag.
+</div>
+<div align="left"> 
+   <strong>09. Comprovante Page:</strong> Tela que exibe o comprovante da transferência.
+</div>
   
   #
 
