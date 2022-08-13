@@ -49,13 +49,13 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API, G
   <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/getstarted_page.jpeg" alt="Search - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/onboard1.jpeg" alt="Search - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/login_page.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/onboard2.jpeg" alt="Details Page - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/register_page.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/onboard3.jpeg" alt="Details Page - version mobile" height="500px">
     </td>
      
   </table>
@@ -65,17 +65,17 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API, G
   <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/home_page2.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/home.jpeg" alt="Details Page - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/home_page.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/extrato.jpeg" alt="Details Page - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/detail_page.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/comprovante.jpeg" alt="Details Page - version mobile" height="500px">
     </td>
     
   </table>
-  
+    
 <div align="center">  
   <strong> 💼 Tecnologias utilizadas: </strong>
 </div>   
@@ -83,11 +83,11 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API, G
 <table align="center">
  <tr>
   <td>Framework Flutter</td>  
-  <td>Firebase </td>
+  <td>SOLID</td>
+  <td>BLoC</td>
+  <td>Firebase</td>
   <td>Http Package</td>
   <td>Lottie Animation</td>
-  <td>Url+Share Plus</td>
- 
-  
+  <td>Figma</td>
  </tr>
 </table>
